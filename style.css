@@ -1,0 +1,150 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, sans-serif;
+}
+
+.container {
+    border: 1px solid darkslateblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px 5px darkslategrey;
+    position: relative;
+    left: 180px;
+    top: 20px;
+    background-color: lightblue;
+    width:900px;
+    height: 1250px;
+}
+.head {
+    border: 1px solid transparent;
+    box-shadow: 2px 2px 5px 2px darkslategrey;
+    border-radius: 20px;
+    position: relative;
+    bottom: 180px;
+    left: 350px;
+    height: 80px;
+    width: 450px;
+    margin: 5px 5px;
+    text-align: center;
+    line-height: 70px;
+    padding: 5px 0px 0px 20px;
+}
+
+.picture {
+    width: 160px;
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.scol {
+    height: 320px;
+    width: 600px;
+    margin: -110px 50px 0px 270px;
+    padding: 80px 0px 0px 70px;
+    font-size: x-large;
+}
+
+.pro {
+    height: 400px;
+    width: 650px;
+    padding: 80px 0px 0px 100px;
+    margin: 10px 0px 0px 230px;
+}
+
+.skill {
+    border: 1px solid transparent;
+    box-shadow: 2px 2px 5px 2px darkslategrey;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    width: 240px;
+    height: 370px;
+    margin: -670px 5px 5px 40px;
+}
+
+.hobby {
+    border: 1px solid transparent;
+    box-shadow: 2px 2px 5px 2px darkslategrey;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    width: 240px;
+    height: 350px;
+    padding-bottom: 40px;
+    margin: 10px 5px 5px 40px;
+}
+
+.form {
+    border: 1px solid transparent;
+    box-shadow: 2px 2px 5px 2px darkslategrey;
+    border-radius: 20px;
+    text-align: center;
+    width: 200px;
+    height: 220px;
+    margin: 10px 5px 5px 50px;
+}
+
+.contact {
+    border: 1px solid transparent;
+    box-shadow: 2px 2px 5px 2px darkslategrey;
+    border-radius: 20px;
+    position: relative;
+    bottom: 260px;
+    left: 320px;
+    height: 220px;
+    width: 520px;
+    margin: 5px 5px;
+    font-size: x-small;
+    padding: 25px 10px 10px 50px;
+}
+
+div.scol ul {
+    font-weight: bolder;
+}
+
+div.pro li {
+    font-weight: bolder;
+}
+
+li ul li {
+    font-size: large;
+    color: dimgrey;
+    text-indent: 30px;
+}
+
+ul li {
+    font-size: x-large;
+}
+
+.button {
+    color: white;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px cornflowerblue;
+    cursor: pointer;
+}
+
+div.contact ul li {
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: xx-large;
+    padding-bottom: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+div.hobby h1 {
+    font-size: xx-large;
+}
